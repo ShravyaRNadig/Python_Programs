@@ -44,32 +44,3 @@ print("No.of.rooms : ",rooms)
 print("Total Amount : ",tot)
 print("Discount : ",dis)
 print("Net Pay : ",net)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
