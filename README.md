@@ -6,4 +6,5 @@ This Projects includes: <br>
       2) Python PDF convert,<br>
       3) Hotel Booking, <br>
       4) Electricity Billing, <br> 
-      5) Django
+      5) Django, <br>
+And much more.
